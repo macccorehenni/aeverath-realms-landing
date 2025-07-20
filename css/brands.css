@@ -631,3 +631,8 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+/* Docs */
+.button-docs {
+    --button-text: #ffffff;
+    --button-background: #2457f5;
+}
